@@ -3,14 +3,14 @@
 - 具体题目要求见下图
 
 ```
-![Alt text](topic1.png "Optional title")
+![Alt text](https://github.com/zuozhiwei/ccppcase/blob/master/guessNumber/topic1.png "Optional title")
 
 ```
 
 详细叙述如下：题目要求图1
 
 ```
-![Alt text](topic2.png "Optional title")
+![Alt text](https://github.com/zuozhiwei/ccppcase/blob/master/guessNumber/topic2.png "Optional title")
 
 ```
 
