@@ -4,4 +4,4 @@
 
 ![题目要求图1](https://github.com/zuozhiwei/ccppcase/raw/master/guessNumber/topic1.png)
 
-![题目要求图2](https://github.com/zuozhiwei/ccppcase/raw/master/topic2.png)
+![题目要求图2](https://github.com/zuozhiwei/ccppcase/raw/master/guessNumber/topic2.png)
